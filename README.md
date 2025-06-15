@@ -2,4 +2,4 @@
 <br>
 <br>
 <h2> Esse  foi um Projeto que eu aprendi no Devclub </h2>
-<img src="![image](https://github.com/user-attachments/assets/0d336c89-290e-41f9-a13a-ea75de14f4be)"/>
+<img src="https://github.com/Jymas/projetos-01/blob/main/lista-de-tarefas/imagem.png?raw=true"/>
